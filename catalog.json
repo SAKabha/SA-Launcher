@@ -48,7 +48,11 @@
         "ar": "Windows 10 أو 11 بنظام 64 بت. لا يحتاج صلاحيات المسؤول."
       },
       "executable": "SAGameBooster/SAGameBooster.exe",
-      "download": null
+      "download": {
+        "url": "https://github.com/SAKabha/SA-Launcher/releases/download/sa-game-booster-v1.0.0/sa-game-booster-1.0.0-win64.zip",
+        "sha256": "633726fd518a04aaa51da1e5c47e0715dff6b23782b7f9efe01870f7af251e10",
+        "size": 45811105
+      }
     },
     {
       "id": "shutdown-timer-premium",
