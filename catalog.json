@@ -145,6 +145,50 @@
         "sha256": "8a948e666f3797fcdb696689045957d204aa57f06511181967893eefb9f74ff3",
         "size": 128117321
       }
+    },
+    {
+      "id": "sa-crosshair",
+      "kind": "zip",
+      "category": "utility",
+      "version": "1.0.0",
+      "released": "2026-10-15",
+      "accent": "#1ED9A4",
+      "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/sa-crosshair.png",
+      "homepage": "https://github.com/SAKabha/SA-Launcher",
+      "name": {
+        "en": "SA Crosshair",
+        "ar": "SA Crosshair"
+      },
+      "tagline": {
+        "en": "Your own crosshair on top of any game — show or hide it with one key.",
+        "ar": "مؤشر تصويب خاص بك فوق أي لعبة — أظهره أو أخفه بمفتاح واحد."
+      },
+      "description": {
+        "en": "Design a crosshair — cross, T, X, dot or circle — with any colour, size, gap, outline and opacity, and see it on screen instantly. Keep a profile per game and switch with a key, even in-game. Share your crosshair with friends as a short code.\n\nIt only draws a small transparent window above the game: it never touches game files or memory. Optional: hide it from recordings and streams. Works with borderless / windowed games. Some competitive games forbid crosshair overlays — check the game's rules.",
+        "ar": "صمّم مؤشر تصويب — علامة + أو T أو X أو نقطة أو دائرة — بأي لون وحجم وفراغ وإطار وشفافية، وشاهده على الشاشة فورًا. احفظ ملفًا لكل لعبة وبدّل بينها بمفتاح حتى داخل اللعبة. وشارك مؤشرك مع أصحابك بكود قصير.\n\nيرسم فقط نافذة صغيرة شفافة فوق اللعبة: لا يلمس ملفاتها ولا ذاكرتها. اختياريًا: أخفِه من التسجيل والبث. يعمل مع الألعاب بوضع Borderless أو Windowed. بعض الألعاب التنافسية تمنع المؤشرات الخارجية — راجع قوانين اللعبة."
+      },
+      "changelog": {
+        "en": [
+          "First release.",
+          "7 shapes, colours, sizes, outline and opacity with a live preview.",
+          "Profiles, global keys and share codes."
+        ],
+        "ar": [
+          "الإصدار الأول.",
+          "7 أشكال مع الألوان والأحجام والإطار والشفافية ومعاينة مباشرة.",
+          "ملفات ومفاتيح تعمل داخل الألعاب وأكواد مشاركة."
+        ]
+      },
+      "requirements": {
+        "en": "Windows 10 or 11 (64-bit). No administrator rights needed.",
+        "ar": "Windows 10 أو 11 بنظام 64 بت. لا يحتاج صلاحيات المسؤول."
+      },
+      "executable": "SACrosshair/SACrosshair.exe",
+      "download": {
+        "url": "https://github.com/SAKabha/SA-Launcher/releases/download/sa-crosshair-v1.0.0/sa-crosshair-1.0.0-win64.zip",
+        "sha256": "bf6f91d5f1d9410f187a654327dc9f3495acf76b4a61b3d855659f6839e64e3b",
+        "size": 45050677
+      }
     }
   ]
 }
