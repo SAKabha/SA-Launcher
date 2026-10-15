@@ -101,6 +101,50 @@
         "sha256": "9912220f1433acf36828c8cf70cd5c5d1372d2bc31dc1ab79bfeebe0d1b21cb9",
         "size": 45307040
       }
+    },
+    {
+      "id": "sa-clip",
+      "kind": "zip",
+      "category": "utility",
+      "version": "0.9.2-beta",
+      "released": "2026-10-15",
+      "accent": "#FF4D7A",
+      "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/sa-clip.png",
+      "homepage": "https://github.com/SAKabha/SA-Launcher",
+      "name": {
+        "en": "SA Clip (beta)",
+        "ar": "SA Clip (تجريبي)"
+      },
+      "tagline": {
+        "en": "Instant replay: press F9 to save the last seconds of your game.",
+        "ar": "إعادة فورية: اضغط F9 لحفظ آخر ثواني من لعبتك."
+      },
+      "description": {
+        "en": "SA Clip always keeps the last 15 to 120 seconds of your screen. Press F9 after a great moment and it is saved instantly — no re-encoding, so no FPS cost. Your graphics card (NVIDIA, AMD or Intel) does the recording.\n\nThen trim the clip and export it vertical (1080×1920) for TikTok, Shorts and Reels, with game sound and your microphone. Clips stay on your PC.\n\nBeta: please report any problem.",
+        "ar": "يحتفظ SA Clip دائمًا بآخر 15 إلى 120 ثانية من شاشتك. اضغط F9 بعد لحظة قوية فيُحفظ المقطع فورًا — بدون إعادة ترميز، فلا يؤثر على الإطارات. كرت الشاشة (NVIDIA أو AMD أو Intel) يقوم بالتسجيل.\n\nبعدها قُصّ المقطع وصدّره عموديًا (1080×1920) لتيك توك وشورتس وريلز، مع صوت اللعبة والميكروفون. المقاطع تبقى على جهازك.\n\nنسخة تجريبية: بلّغ عن أي مشكلة."
+      },
+      "changelog": {
+        "en": [
+          "First beta.",
+          "Instant replay with a global save key.",
+          "Trim and vertical export for TikTok / Shorts / Reels."
+        ],
+        "ar": [
+          "أول نسخة تجريبية.",
+          "إعادة فورية بمفتاح حفظ يعمل داخل الألعاب.",
+          "قصّ وتصدير عمودي لتيك توك وشورتس وريلز."
+        ]
+      },
+      "requirements": {
+        "en": "Windows 10 or 11 (64-bit). A graphics card with an up-to-date driver is recommended.",
+        "ar": "Windows 10 أو 11 بنظام 64 بت. يُفضّل كرت شاشة بتعريف محدّث."
+      },
+      "executable": "SAClip/SAClip.exe",
+      "download": {
+        "url": "https://github.com/SAKabha/SA-Launcher/releases/download/sa-clip-v0.9.2-beta/sa-clip-0.9.2-beta-win64.zip",
+        "sha256": "767e62b73fa1a99da4c86d9bcf36da29f459846262ec64e75dde59c511b8adeb",
+        "size": 128117328
+      }
     }
   ]
 }
