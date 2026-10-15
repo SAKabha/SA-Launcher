@@ -189,6 +189,50 @@
         "sha256": "bf6f91d5f1d9410f187a654327dc9f3495acf76b4a61b3d855659f6839e64e3b",
         "size": 45050677
       }
+    },
+    {
+      "id": "sa-aim-stability",
+      "kind": "zip",
+      "category": "utility",
+      "version": "1.0.0",
+      "released": "2026-10-15",
+      "accent": "#FF7A30",
+      "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/sa-aim-stability.png",
+      "homepage": "https://github.com/SAKabha/SA-Launcher",
+      "name": {
+        "en": "SA Aim Stability",
+        "ar": "SA Aim Stability"
+      },
+      "tagline": {
+        "en": "Measure and train a steadier hand — and get mouse settings made for you.",
+        "ar": "قِس ثبات يدك ودرّبها — واحصل على إعدادات ماوس مخصصة لك."
+      },
+      "description": {
+        "en": "Two quick tests show how steady your aim really is: hold the cursor still on a target, and pull straight down like controlling recoil. You get a score, your hand tremor in pixels, wobble, pull angle and speed evenness — and your progress over time.\n\nMouse setup turns off Windows pointer acceleration in one click (and can restore it), calculates eDPI and cm per 360°, converts sensitivity between CS2, VALORANT, Apex and Overwatch 2, and suggests a sensitivity based on your own results.\n\nIt never moves the mouse for you and never touches games, so it is safe with every anti-cheat.",
+        "ar": "اختباران سريعان يكشفان ثبات تصويبك الحقيقي: تثبيت المؤشر على هدف، والسحب للأسفل كأنك تتحكم بالارتداد. تحصل على علامة، ورجفة يدك بالبكسل، والتمايل، وميل السحب، وانتظام السرعة — وتقدّمك مع الوقت.\n\nإعداد الماوس يوقف تسارع المؤشر في ويندوز بضغطة (ويمكنه إرجاعه)، ويحسب eDPI والسنتيمترات للفّة 360°، ويحوّل الحساسية بين CS2 وVALORANT وApex وOverwatch 2، ويقترح حساسية مبنية على نتائجك أنت.\n\nلا يحرّك الماوس بدلًا منك أبدًا ولا يلمس الألعاب، لذلك هو آمن مع كل أنظمة مكافحة الغش."
+      },
+      "changelog": {
+        "en": [
+          "First release.",
+          "Hold and pull-down stability tests with progress history.",
+          "Windows mouse fix, sensitivity calculator and personal advice."
+        ],
+        "ar": [
+          "الإصدار الأول.",
+          "اختبارا التثبيت والسحب مع سجل التقدّم.",
+          "إصلاح إعدادات الماوس في ويندوز وحاسبة الحساسية ونصيحة شخصية."
+        ]
+      },
+      "requirements": {
+        "en": "Windows 10 or 11 (64-bit). No administrator rights needed.",
+        "ar": "Windows 10 أو 11 بنظام 64 بت. لا يحتاج صلاحيات المسؤول."
+      },
+      "executable": "SAAimStability/SAAimStability.exe",
+      "download": {
+        "url": "https://github.com/SAKabha/SA-Launcher/releases/download/sa-aim-stability-v1.0.0/sa-aim-stability-1.0.0-win64.zip",
+        "sha256": "cf66f72082cac1ef2581892119b7a470e3bf99cf74dfe7588e82c3d1fb99130d",
+        "size": 45037847
+      }
     }
   ]
 }
