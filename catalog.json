@@ -194,7 +194,7 @@
       "id": "sa-aim-stability",
       "kind": "zip",
       "category": "utility",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "released": "2026-10-15",
       "accent": "#FF7A30",
       "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/sa-aim-stability.png",
@@ -229,9 +229,9 @@
       },
       "executable": "SAAimStability/SAAimStability.exe",
       "download": {
-        "url": "https://github.com/SAKabha/SA-Launcher/releases/download/sa-aim-stability-v1.0.0/sa-aim-stability-1.0.0-win64.zip",
-        "sha256": "cf66f72082cac1ef2581892119b7a470e3bf99cf74dfe7588e82c3d1fb99130d",
-        "size": 45037847
+        "url": "https://github.com/SAKabha/SA-Launcher/releases/download/sa-aim-stability-v1.0.1/sa-aim-stability-1.0.1-win64.zip",
+        "sha256": "b2ea2548cca09d9fbb28e87aff36cab5a17ac905c1beb276d1e1bc0fbbec9661",
+        "size": 45037862
       }
     }
   ]
