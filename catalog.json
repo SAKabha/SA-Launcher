@@ -96,7 +96,11 @@
         "ar": "Windows 10 أو 11 بنظام 64 بت. برنامج تشغيل NVIDIA اختياري لقراءات معالج الرسوميات."
       },
       "executable": "ShutdownTimerPremium/ShutdownTimerPremium.exe",
-      "download": null
+      "download": {
+        "url": "https://github.com/SAKabha/SA-Launcher/releases/download/shutdown-timer-premium-v1.0.0/shutdown-timer-premium-1.0.0-win64.zip",
+        "sha256": "9912220f1433acf36828c8cf70cd5c5d1372d2bc31dc1ab79bfeebe0d1b21cb9",
+        "size": 45307040
+      }
     }
   ]
 }
