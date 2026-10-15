@@ -194,7 +194,7 @@
       "id": "sa-aim-stability",
       "kind": "zip",
       "category": "utility",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "released": "2026-10-15",
       "accent": "#FF7A30",
       "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/sa-aim-stability.png",
@@ -204,23 +204,25 @@
         "ar": "SA Aim Stability"
       },
       "tagline": {
-        "en": "Measure and train a steadier hand — and get mouse settings made for you.",
-        "ar": "قِس ثبات يدك ودرّبها — واحصل على إعدادات ماوس مخصصة لك."
+        "en": "Train steadier aim: recoil, flick and tracking drills at your real sensitivity.",
+        "ar": "درّب تصويبًا أثبت: تمارين ارتداد وفليك وتتبع بحساسيتك الحقيقية."
       },
       "description": {
-        "en": "Two quick tests show how steady your aim really is: hold the cursor still on a target, and pull straight down like controlling recoil. You get a score, your hand tremor in pixels, wobble, pull angle and speed evenness — and your progress over time.\n\nMouse setup turns off Windows pointer acceleration in one click (and can restore it), calculates eDPI and cm per 360°, converts sensitivity between CS2, VALORANT, Apex and Overwatch 2, and suggests a sensitivity based on your own results.\n\nIt never moves the mouse for you and never touches games, so it is safe with every anti-cheat.",
-        "ar": "اختباران سريعان يكشفان ثبات تصويبك الحقيقي: تثبيت المؤشر على هدف، والسحب للأسفل كأنك تتحكم بالارتداد. تحصل على علامة، ورجفة يدك بالبكسل، والتمايل، وميل السحب، وانتظام السرعة — وتقدّمك مع الوقت.\n\nإعداد الماوس يوقف تسارع المؤشر في ويندوز بضغطة (ويمكنه إرجاعه)، ويحسب eDPI والسنتيمترات للفّة 360°، ويحوّل الحساسية بين CS2 وVALORANT وApex وOverwatch 2، ويقترح حساسية مبنية على نتائجك أنت.\n\nلا يحرّك الماوس بدلًا منك أبدًا ولا يلمس الألعاب، لذلك هو آمن مع كل أنظمة مكافحة الغش."
+        "en": "A daily 5-minute routine that makes your aim steadier — with a streak and a 14-day progress chart.\n\nRecoil control: hold the button and pull down against a real-feeling spray (rifle, SMG, heavy) — every bullet hole is shown and you are told exactly what to fix. Flick and tracking drills, too. Drills turn exactly like your game at your sensitivity (CS2, VALORANT, Apex, Overwatch 2).\n\nSensitivity finder: short rounds at five sensitivities in a hidden order — your scores pick the one your hand controls best. Plus hand-stability tests, a one-click Windows mouse fix and a sensitivity calculator.\n\nIt never moves the mouse for you and never touches games — safe with every anti-cheat.",
+        "ar": "روتين يومي 5 دقائق يجعل تصويبك أثبت — مع سلسلة أيام ورسم تقدّم لآخر 14 يومًا.\n\nالتحكم بالارتداد: اضغط الزر واسحب للأسفل عكس رشّة واقعية (رشاش، SMG، ثقيل) — يظهر مكان كل طلقة ويخبرك بالضبط ماذا تصلح. وأيضًا تمارين فليك وتتبع. التمارين تدور تمامًا مثل لعبتك بحساسيتك (CS2 وVALORANT وApex وOverwatch 2).\n\nمكتشف الحساسية: جولات قصيرة على خمس حساسيات بترتيب مخفي — نتائجك تختار الحساسية التي تتحكم بها يدك أفضل. بالإضافة لاختبارات ثبات اليد وإصلاح إعدادات الماوس في ويندوز بضغطة وحاسبة الحساسية.\n\nلا يحرّك الماوس بدلًا منك أبدًا ولا يلمس الألعاب — آمن مع كل أنظمة مكافحة الغش."
       },
       "changelog": {
         "en": [
-          "First release.",
-          "Hold and pull-down stability tests with progress history.",
-          "Windows mouse fix, sensitivity calculator and personal advice."
+          "New: Today — a daily routine with streaks and a 14-day chart.",
+          "New: recoil control training with 3 weapons and feedback on every spray.",
+          "New: flick and tracking drills at your real in-game sensitivity.",
+          "New: sensitivity finder."
         ],
         "ar": [
-          "الإصدار الأول.",
-          "اختبارا التثبيت والسحب مع سجل التقدّم.",
-          "إصلاح إعدادات الماوس في ويندوز وحاسبة الحساسية ونصيحة شخصية."
+          "جديد: صفحة اليوم — روتين يومي مع سلسلة أيام ورسم 14 يومًا.",
+          "جديد: تدريب التحكم بالارتداد بثلاثة أسلحة وملاحظات بعد كل رشّة.",
+          "جديد: تمارين فليك وتتبع بحساسيتك الحقيقية.",
+          "جديد: مكتشف الحساسية."
         ]
       },
       "requirements": {
@@ -229,9 +231,9 @@
       },
       "executable": "SAAimStability/SAAimStability.exe",
       "download": {
-        "url": "https://github.com/SAKabha/SA-Launcher/releases/download/sa-aim-stability-v1.0.1/sa-aim-stability-1.0.1-win64.zip",
-        "sha256": "b2ea2548cca09d9fbb28e87aff36cab5a17ac905c1beb276d1e1bc0fbbec9661",
-        "size": 45037862
+        "url": "https://github.com/SAKabha/SA-Launcher/releases/download/sa-aim-stability-v1.1.0/sa-aim-stability-1.1.0-win64.zip",
+        "sha256": "bcf1adbcdb377f39f6416c81a327d0bef84a6bc1fb7d8529ebabcdd789350ec3",
+        "size": 45085076
       }
     }
   ]
