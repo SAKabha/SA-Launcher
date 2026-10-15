@@ -1,0 +1,35 @@
+SA Launcher, SA Game Booster, Shutdown Timer Premium
+Copyright (c) 2026 SAKabha. All rights reserved.
+
+FREEWARE LICENSE
+
+1. You may download, install and use these programs free of charge, on any number
+   of your own computers, for personal or commercial purposes.
+
+2. You may NOT, without written permission from SAKabha:
+   - copy, redistribute, re-upload, sell, rent or bundle the programs or their installers;
+   - modify the programs, or decompile, disassemble or reverse engineer them,
+     except where this restriction is prohibited by applicable law;
+   - remove or change any copyright, trademark or license notice;
+   - publish the programs under another name or claim them as your own work.
+   Share the official download page instead: https://github.com/SAKabha/SA-Launcher
+
+3. Open-source components (Qt / PySide6 under LGPL-3.0, psutil under BSD-3-Clause, the
+   Python runtime under the PSF License) are licensed under their own terms, listed in
+   THIRD_PARTY_LICENSES.txt inside each program. Nothing in this license limits the rights
+   those licenses give you, including replacing the Qt / PySide6 libraries and the
+   reverse engineering the LGPL permits for debugging such replacements.
+
+4. The programs are provided "as is", without warranty of any kind. SAKabha is not liable
+   for any damage arising from their use.
+
+--------------------------------------------------------------------------------
+
+رخصة استخدام مجانية
+
+1. يحق لك تنزيل البرامج وتثبيتها واستخدامها مجانًا، على أي عدد من أجهزتك، لأغراض شخصية أو تجارية.
+2. لا يحق لك دون إذن كتابي من SAKabha: نسخ البرامج أو إعادة نشرها أو رفعها أو بيعها أو تأجيرها؛
+   أو تعديلها أو فك تجميعها أو الهندسة العكسية لها إلا حيث يسمح القانون بذلك؛ أو إزالة حقوق الملكية؛
+   أو نشرها باسم آخر أو نسبها لنفسك. شارك رابط التنزيل الرسمي بدلًا من ذلك.
+3. المكوّنات مفتوحة المصدر تخضع لرخصها الخاصة المذكورة في THIRD_PARTY_LICENSES.txt، ولا تقيّد هذه الرخصة حقوقك بموجبها.
+4. البرامج مقدّمة «كما هي» دون أي ضمان.

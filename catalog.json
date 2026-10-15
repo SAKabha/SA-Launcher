@@ -1,0 +1,98 @@
+{
+  "schema": 1,
+  "publisher": "SAKabha",
+  "launcher": {
+    "version": "1.0.0",
+    "url": "https://github.com/SAKabha/SA-Launcher/releases/latest"
+  },
+  "apps": [
+    {
+      "id": "sa-game-booster",
+      "kind": "zip",
+      "category": "utility",
+      "version": "1.0.0",
+      "released": "2026-10-15",
+      "accent": "#5B3FE0",
+      "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/sa-game-booster.png",
+      "homepage": "https://github.com/SAKabha/SA-Launcher",
+      "name": {
+        "en": "SA Game Booster",
+        "ar": "SA Game Booster"
+      },
+      "tagline": {
+        "en": "Free up your PC for a game — and undo it when you're done.",
+        "ar": "فرّغ حاسوبك للعبة — وأعِد كل شيء عند الانتهاء."
+      },
+      "description": {
+        "en": "One click switches Windows to its highest-performance power plan, closes the background apps you pick (politely, so they can save) and gives your game High priority. End the boost and everything goes back.\n\nAlso included: a live load dashboard, and a connection test that measures latency, jitter and packet loss to Roblox, FiveM, Discord, Steam or your own server. Honest by design — no fake FPS promises, every change is listed in the Activity Log.",
+        "ar": "بنقرة واحدة يحوّل Windows إلى خطة الطاقة الأعلى أداءً، ويغلق تطبيقات الخلفية التي تختارها (بلطف لتحفظ عملها)، ويعطي لعبتك أولوية عالية. أنهِ التسريع فيعود كل شيء كما كان.\n\nويتضمن أيضًا لوحة مباشرة لحمل الجهاز، واختبار اتصال يقيس زمن الاستجابة والتذبذب وفقدان الحزم إلى Roblox وFiveM وDiscord وSteam أو سيرفرك الخاص. صادق بالتصميم — بلا وعود FPS وهمية، وكل تغيير مسجّل في سجل النشاط."
+      },
+      "changelog": {
+        "en": [
+          "First release.",
+          "One-click boost with full restore.",
+          "Connection quality test.",
+          "Live hardware dashboard.",
+          "Arabic and English, dark and light themes."
+        ],
+        "ar": [
+          "الإصدار الأول.",
+          "تسريع بنقرة واحدة مع استعادة كاملة.",
+          "اختبار جودة الاتصال.",
+          "لوحة مباشرة لقراءات العتاد.",
+          "العربية والإنجليزية، مظهر داكن وفاتح."
+        ]
+      },
+      "requirements": {
+        "en": "Windows 10 or 11 (64-bit). No administrator rights needed.",
+        "ar": "Windows 10 أو 11 بنظام 64 بت. لا يحتاج صلاحيات المسؤول."
+      },
+      "executable": "SAGameBooster/SAGameBooster.exe",
+      "download": null
+    },
+    {
+      "id": "shutdown-timer-premium",
+      "kind": "zip",
+      "category": "utility",
+      "version": "1.0.0",
+      "released": "2026-10-15",
+      "accent": "#3D8BFF",
+      "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/shutdown-timer-premium.png",
+      "homepage": "https://github.com/SAKabha/SA-Launcher",
+      "name": {
+        "en": "Shutdown Timer Premium",
+        "ar": "Shutdown Timer Premium"
+      },
+      "tagline": {
+        "en": "Schedule a Windows shutdown and watch your PC's load live.",
+        "ar": "جدولة إيقاف تشغيل Windows ومتابعة حمل حاسوبك مباشرة."
+      },
+      "description": {
+        "en": "Pick a duration or a quick preset and Windows shuts down when the time is up — with a clear countdown, one-click cancel and a confirmation before anything is scheduled.\n\nThe dashboard shows live CPU, memory, storage and (on NVIDIA cards) GPU load, and the clean-up page opens Windows' temp folders and Disk Cleanup safely — nothing is ever deleted automatically. Full Arabic and English interface, dark and light themes.",
+        "ar": "اختر مدة أو اختيارًا سريعًا وسيتوقف Windows عند انتهاء الوقت — مع عدّ تنازلي واضح وإلغاء بنقرة واحدة وتأكيد قبل جدولة أي شيء.\n\nتعرض لوحة المعلومات حمل المعالج والذاكرة والتخزين مباشرة (ومعالج الرسوميات على بطاقات NVIDIA)، وتفتح صفحة التنظيف مجلدات Windows المؤقتة وأداة تنظيف القرص بأمان — دون حذف أي شيء تلقائيًا. واجهة كاملة بالعربية والإنجليزية، بمظهر داكن وفاتح."
+      },
+      "changelog": {
+        "en": [
+          "First release.",
+          "Shutdown timer with presets, countdown and cancel.",
+          "Live hardware dashboard.",
+          "Safe clean-up shortcuts.",
+          "Arabic and English, dark and light themes."
+        ],
+        "ar": [
+          "الإصدار الأول.",
+          "مؤقت إيقاف مع اختيارات سريعة وعدّ تنازلي وإلغاء.",
+          "لوحة مباشرة لقراءات العتاد.",
+          "اختصارات تنظيف آمنة.",
+          "العربية والإنجليزية، مظهر داكن وفاتح."
+        ]
+      },
+      "requirements": {
+        "en": "Windows 10 or 11 (64-bit). NVIDIA driver optional for live GPU readings.",
+        "ar": "Windows 10 أو 11 بنظام 64 بت. برنامج تشغيل NVIDIA اختياري لقراءات معالج الرسوميات."
+      },
+      "executable": "ShutdownTimerPremium/ShutdownTimerPremium.exe",
+      "download": null
+    }
+  ]
+}
