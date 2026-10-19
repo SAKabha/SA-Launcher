@@ -2,10 +2,74 @@
   "schema": 1,
   "publisher": "SAKabha",
   "launcher": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "url": "https://github.com/SAKabha/SA-Launcher/releases/latest"
   },
   "apps": [
+    {
+      "id": "pending",
+      "kind": "zip",
+      "category": "game",
+      "version": "0.9.20261019.1",
+      "released": "2026-10-19",
+      "accent": "#A87C17",
+      "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/pending.png",
+      "homepage": "https://sakabha.github.io/pending-updates/",
+      "name": {
+        "en": "PENDING",
+        "ar": "قيد الانتظار"
+      },
+      "tagline": {
+        "en": "A clerk at counter 2. Every decision is on file.",
+        "ar": "موظف على الشباك رقم 2. كل قرار محفوظ في ملف."
+      },
+      "description": {
+        "en": "You are the new intake clerk at District 4's Public Service Center. People bring their requests, papers and stories to counter 2: read them, ask, check what can be checked, then decide.\n\nAfter work the city is yours: drive your car, fill up at the station, take evening courier shifts, pay the rent, eat and sleep - and find out what happened to the clerk who sat at your counter before you. Full Arabic and English.",
+        "ar": "أنت موظف الاستقبال الجديد في مركز الخدمة العامة في الحي الرابع. يأتي الناس إلى الشباك رقم 2 بطلباتهم وأوراقهم وقصصهم: اقرأ، واسأل، وتحقّق مما يمكن التحقق منه، ثم قرّر.\n\nبعد الدوام المدينة لك: قُد سيارتك، واملأ خزانها في المحطة، واعمل في توصيل الطرود مساءً، وادفع الإيجار، وكُل ونَم - واكتشف ما حدث للموظف الذي جلس على شباكك قبلك. بالعربية والإنجليزية كاملة."
+      },
+      "changelog": {
+        "en": [
+          "Playtest build.",
+          "The filling station, petrol and car repairs.",
+          "Courier work with fragile parcels, tips and a driver rating.",
+          "The car radio.",
+          "Tomas' story continues."
+        ],
+        "ar": [
+          "نسخة تجريبية.",
+          "محطة الوقود والبنزين وصيانة السيارة.",
+          "توصيل الطرود مع طرود قابلة للكسر وبقشيش وتقييم للسائق.",
+          "راديو السيارة.",
+          "قصة توفيق تكتمل."
+        ]
+      },
+      "requirements": {
+        "en": "Windows 10 or 11 (64-bit), a DirectX 12 graphics card, about 10 GB of free space while installing. An Internet connection is needed each time the game starts (it checks for a required update).",
+        "ar": "Windows 10 أو 11 بنظام 64 بت، وبطاقة رسوميات تدعم DirectX 12، وحوالي 10 جيجابايت فارغة أثناء التثبيت. يلزم اتصال بالإنترنت عند كل تشغيل للعبة (تتحقق من وجود تحديث إلزامي)."
+      },
+      "executable": "PENDING/Pending.exe",
+      "download": {
+        "sha256": "e98b80c516043e1779b6a2b931a086ae7c537e9b014238ad729ec8af7e5b41d3",
+        "size": 4539170685,
+        "parts": [
+          {
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261019.1/pending-0.9.20261019.1-win64.zip.001",
+            "sha256": "64b299e3f4bea5dcb4c94e16ca1a597558e7381b2495954b95388308377fe89a",
+            "size": 1992294400
+          },
+          {
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261019.1/pending-0.9.20261019.1-win64.zip.002",
+            "sha256": "522edf3d3d7bfa0562d7287dd1577b1e3fe4c8edc75d2cc46b0aabf6eb7b57c1",
+            "size": 1992294400
+          },
+          {
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261019.1/pending-0.9.20261019.1-win64.zip.003",
+            "sha256": "ebec8e94d653db064c9b0780a891aeba3e8dc162558bba9c14bbd767be05bd86",
+            "size": 554581885
+          }
+        ]
+      }
+    },
     {
       "id": "sa-game-booster",
       "kind": "zip",
