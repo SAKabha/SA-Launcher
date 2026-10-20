@@ -10,8 +10,8 @@
       "id": "pending",
       "kind": "zip",
       "category": "game",
-      "version": "0.9.20261019.1",
-      "released": "2026-10-19",
+      "version": "0.9.20261020.4",
+      "released": "2026-10-20",
       "accent": "#A87C17",
       "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/pending.png",
       "homepage": "https://sakabha.github.io/pending-updates/",
@@ -29,18 +29,12 @@
       },
       "changelog": {
         "en": [
-          "Playtest build.",
-          "The filling station, petrol and car repairs.",
-          "Courier work with fragile parcels, tips and a driver rating.",
-          "The car radio.",
-          "Tomas' story continues."
+          "Version 0.9.20261020.4.",
+          "حل بعض المشاكل في القصة"
         ],
         "ar": [
-          "نسخة تجريبية.",
-          "محطة الوقود والبنزين وصيانة السيارة.",
-          "توصيل الطرود مع طرود قابلة للكسر وبقشيش وتقييم للسائق.",
-          "راديو السيارة.",
-          "قصة توفيق تكتمل."
+          "النسخة 0.9.20261020.4.",
+          "حل بعض المشاكل في القصة"
         ]
       },
       "requirements": {
@@ -49,23 +43,23 @@
       },
       "executable": "PENDING/Pending.exe",
       "download": {
-        "sha256": "e98b80c516043e1779b6a2b931a086ae7c537e9b014238ad729ec8af7e5b41d3",
-        "size": 4539170685,
+        "sha256": "8cdd9dd28b33e1f6e14e6dd0f9a301802beb2aec120182df566fa07c085c87e9",
+        "size": 4783519417,
         "parts": [
           {
-            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261019.1/pending-0.9.20261019.1-win64.zip.001",
-            "sha256": "64b299e3f4bea5dcb4c94e16ca1a597558e7381b2495954b95388308377fe89a",
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261020.4/pending-0.9.20261020.4-win64.zip.001",
+            "sha256": "b1ca3b503118cfbd25b909005ea951185b1b628cb2cf70d102119a3b15e1d139",
             "size": 1992294400
           },
           {
-            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261019.1/pending-0.9.20261019.1-win64.zip.002",
-            "sha256": "522edf3d3d7bfa0562d7287dd1577b1e3fe4c8edc75d2cc46b0aabf6eb7b57c1",
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261020.4/pending-0.9.20261020.4-win64.zip.002",
+            "sha256": "794b956a4258f34d9bfa1b0d78b933de974d11bc1413cbf395d45ab4ad8c3d72",
             "size": 1992294400
           },
           {
-            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261019.1/pending-0.9.20261019.1-win64.zip.003",
-            "sha256": "ebec8e94d653db064c9b0780a891aeba3e8dc162558bba9c14bbd767be05bd86",
-            "size": 554581885
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261020.4/pending-0.9.20261020.4-win64.zip.003",
+            "sha256": "fe03a8e215806fd50a7cf2c959f18638732b08478988a149620f6870fd995a09",
+            "size": 798930617
           }
         ]
       }
