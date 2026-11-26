@@ -10,8 +10,8 @@
       "id": "pending",
       "kind": "zip",
       "category": "game",
-      "version": "0.9.20261024.10",
-      "released": "2026-10-24",
+      "version": "0.9.20261126.20",
+      "released": "2026-11-26",
       "accent": "#A87C17",
       "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/pending.png",
       "homepage": "https://sakabha.github.io/pending-updates/",
@@ -29,12 +29,12 @@
       },
       "changelog": {
         "en": [
-          "Version 0.9.20261024.10.",
-          "fixx"
+          "Version 0.9.20261126.20.",
+          "ss"
         ],
         "ar": [
-          "النسخة 0.9.20261024.10.",
-          "fixx"
+          "النسخة 0.9.20261126.20.",
+          "ss"
         ]
       },
       "requirements": {
@@ -43,23 +43,18 @@
       },
       "executable": "PENDING/Pending.exe",
       "download": {
-        "sha256": "35d890d4613cc4493e4cbbdf32cec9f54fc28f72bd3ca088346015ab28da3aca",
-        "size": 4785745294,
+        "sha256": "45bbcb9532abc0f1fd598c942160faf65894cc4fe096ac0c77c44751bcc6bdf4",
+        "size": 2290479647,
         "parts": [
           {
-            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261024.10/pending-0.9.20261024.10-win64.zip.001",
-            "sha256": "26c220296a21330245e0e8ace3ee0712f07267668e5bf66570637ec59b1309b7",
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261126.20/pending-0.9.20261126.20-win64.zip.001",
+            "sha256": "0bda213ed4cae1bfaac1adda893584ddebb965b696581571b28cf9fbb226a031",
             "size": 1992294400
           },
           {
-            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261024.10/pending-0.9.20261024.10-win64.zip.002",
-            "sha256": "dbb99b32eb5296a996e857391908b66b039acd013324edae1f2a337b9103f410",
-            "size": 1992294400
-          },
-          {
-            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261024.10/pending-0.9.20261024.10-win64.zip.003",
-            "sha256": "c6fec36b6aa333ca623c62400608806901d03c5da19ea128c2be24d0b73337f5",
-            "size": 801156494
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261126.20/pending-0.9.20261126.20-win64.zip.002",
+            "sha256": "6488798c71ca897162d2882203f0f50f5130d147a2096aaea1647faeb66401f7",
+            "size": 298185247
           }
         ]
       }
