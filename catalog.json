@@ -10,8 +10,8 @@
       "id": "pending",
       "kind": "zip",
       "category": "game",
-      "version": "0.9.20261126.20",
-      "released": "2026-11-26",
+      "version": "0.9.20261127.21",
+      "released": "2026-11-27",
       "accent": "#A87C17",
       "icon": "https://raw.githubusercontent.com/SAKabha/SA-Launcher/main/assets/apps/pending.png",
       "homepage": "https://sakabha.github.io/pending-updates/",
@@ -29,12 +29,12 @@
       },
       "changelog": {
         "en": [
-          "Version 0.9.20261126.20.",
-          "ss"
+          "Version 0.9.20261127.21.",
+          "حل الملل"
         ],
         "ar": [
-          "النسخة 0.9.20261126.20.",
-          "ss"
+          "النسخة 0.9.20261127.21.",
+          "حل الملل"
         ]
       },
       "requirements": {
@@ -43,18 +43,18 @@
       },
       "executable": "PENDING/Pending.exe",
       "download": {
-        "sha256": "45bbcb9532abc0f1fd598c942160faf65894cc4fe096ac0c77c44751bcc6bdf4",
-        "size": 2290479647,
+        "sha256": "9ad669964b5a185d3bf37141d166c219948c203d51e8a3726df27da7881f2540",
+        "size": 2290667941,
         "parts": [
           {
-            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261126.20/pending-0.9.20261126.20-win64.zip.001",
-            "sha256": "0bda213ed4cae1bfaac1adda893584ddebb965b696581571b28cf9fbb226a031",
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261127.21/pending-0.9.20261127.21-win64.zip.001",
+            "sha256": "c390f3da71c6cae21de43b31e7da1e6222bc4797a007f212260fc72fcd6a6c56",
             "size": 1992294400
           },
           {
-            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261126.20/pending-0.9.20261126.20-win64.zip.002",
-            "sha256": "6488798c71ca897162d2882203f0f50f5130d147a2096aaea1647faeb66401f7",
-            "size": 298185247
+            "url": "https://github.com/SAKabha/SA-Launcher/releases/download/pending-v0.9.20261127.21/pending-0.9.20261127.21-win64.zip.002",
+            "sha256": "0bbe171e7fc7435bc2e4cc6b8958af4aa8158efeeb2d2252c4056ff76e3f672b",
+            "size": 298373541
           }
         ]
       }
